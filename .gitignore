@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+config.properties
+app/app-release.apk
+com_crashlytics_export_strings.xml
+crashlytics.properties

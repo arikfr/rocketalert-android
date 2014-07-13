@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="all_areas">All Areas</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_test_notification">Test Notification</string>
+    <string name="waiting_for_parse">Registering with server... please wait.</string>
+    <string name="main_text">Areas you will be notified about:</string>
+    <string name="updates_notice">This app is still in continous development. Please install updates often, and send any feedback you have.</string>
+
+</resources>

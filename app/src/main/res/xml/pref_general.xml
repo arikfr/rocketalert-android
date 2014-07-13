@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="enableVibrator"
+        android:title="@string/pref_title_vibrate"
+        android:defaultValue="true" />
+
+    <CheckBoxPreference
+        android:key="enableAllAreas"
+        android:title="@string/pref_all_areas"
+        android:defaultValue="true" />
+
+</PreferenceScreen>

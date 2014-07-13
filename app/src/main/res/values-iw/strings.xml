@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="all_areas">כל המרחבים</string>
+    <string name="action_feedback">משוב</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="app_name">התרעת שיגורים</string>
+    <string name="main_text">מרחבים עבורם תקבל התרעה:</string>
+    <string name="updates_notice">האפליקציה נמצאת עדיין בתהליכי פיתוח. אנא התקינו עדכונים כשהם נהיים זמינים, ועדכנו אותנו לגבי בעיות.</string>
+    <string name="action_test_notification">הודעת בדיקה</string>
+    <string name="hello_world">שלום עולם</string>
+    <string name="title_activity_settings">הגדרות</string>
+    <string name="waiting_for_parse">נרשם מול השרת... אנא המתן.</string>
+    <string name="pref_all_areas">שלח לי התרעות עבור כל המרחבים</string>
+    <string name="pref_header_areas">מרחבים </string>
+    <string name="pref_title_vibrate">רטט</string>
+
+</resources>

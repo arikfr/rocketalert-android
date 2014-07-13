@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="area_7e732074dc4c6713682810a5e31f7d91"
+        android:title="אילת 311"
+        android:summary="אילות, אילת"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9fd21d7acddf1b7a5d302caae0a996f9"
+        android:title="אשדוד 266"
+        android:summary="גאליה, יבנה, כפר הנגיד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a2d1721b2ef7b73758e24d2eea83aad9"
+        android:title="אשדוד 267"
+        android:summary="בית גמליאל, בית רבן, בן זכאי, בניה, כפר אביב, כפר מרדכי, כרם יבנה, מישר, משגב דב, עשרת, צופיה, קבוצת יבנה, שדמה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_202cd721c608163e5084c0be104e5e0f"
+        android:title="אשדוד 268"
+        android:summary="בית אלעזרי, בית חלקיה, בני ראם, ברורים, גדרה, גני טל, חפץ חיים, יד בנימין, קדרון, רבדים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e54dec5c3f128e3b95a9a6d69ac8a34b"
+        android:title="אשדוד 271"
+        android:summary="אשדוד, בני דרום, נווה הרצוג, ניר גלים, עד הלום"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e24580192c70c163ef5b700bf46c0824"
+        android:title="אשדוד 272"
+        android:summary="אמונים, בית עזרא, גבעתי, עזר, עזריקם, שדה עוזיהו, שתולים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_928ca8825cb829a63473a78aea8ef9fb"
+        android:title="אשדוד 273"
+        android:summary="ביצרון, בני עי''ש, גן הדרום, גן יבנה, חצב, חצור אשדוד, כנות, נווה מבטח"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_aa304ca6637114c2ff1d4ca24799bfec"
+        android:title="אשדוד 275"
+        android:summary="אביגדור, אורות, אחווה, אל עזי, באר טוביה, ינון, כפר אחים, כפר הרי''ף, כפר ורבורג, כפר מנחם, ערוגות, קרית מלאכי, תימורים, תלמי יחיאל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_fb02482e588eac01a5af851d37b63c6d"
+        android:title="אשדוד 276"
+        android:summary="מרכז שפירא, משואות יצחק, עין צורים, שפיר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e93db3f75e7a819491bf966a6efbc9be"
+        android:title="אשדוד 278"
+        android:summary="גבעת ישעיהו, גפן, זכריה, כפר זוהרים, לוזית, נחושה, עגור, צפרירים, שדות מיכה, שריגים, תירוש"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0e8bac33d3fbe1da162259551d6fa170"
+        android:title="אשדוד 280"
+        android:summary="אלומה, ורדון, זבדיאל, זרחיה, מנוחה, נחלה, ניר בנים, סגולה, קדמה, קוממיות, רווחה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ea2b5bba7f40287deda050502f3db039"
+        android:title="אשדוד 281"
+        android:summary="אבן שמואל, אחוזם, איתן, גת, מבחור, נועם, עוזה, קרית גת, שדה משה, שלווה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9aba413238426537814db62fc48d1bbf"
+        android:title="אשדוד 282"
+        android:summary="בית גוברין, בית ניר, גלאון, לכיש"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c06264974c9f3a27735448b403d3f1d6"
+        android:title="אשקלון 234"
+        android:summary="אוהד, צוחר, שדה ניצן, תלמי אליהו"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_668178b01937a38b04f0d629ac664644"
+        android:title="אשקלון 238"
+        android:summary="בני נצרים, נווה, שלומית"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e9fa9465be1d35b8b874923249441a87"
+        android:title="אשקלון 245"
+        android:summary="ניצן, ניצן ב', ניצנים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e4d0da3b8fd21d199aab6024dce53d0b"
+        android:title="אשקלון 246"
+        android:summary="אשקלון, באר גנים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_1df3f436540873690f9ea51a3b115977"
+        android:title="אשקלון 247"
+        android:summary="א.ת אשקלון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_532efc018bd6fc433cec285aa22e309c"
+        android:title="אשקלון 248"
+        android:summary="ברכיה, הודיה, כפר סילבר, משען, ניר ישראל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_fd1a1915f7c587bfa8177796566f71dd"
+        android:title="אשקלון 249"
+        android:summary="זוהר, יד נתן, כוכב מיכאל, נגבה, נהורה, נוגה, ניר ח''ן, עוצם, שדה יואב, שחר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_31e9a79e339c9ca532e6f96c55117401"
+        android:title="אשקלון 250"
+        android:summary="בית שיקמה, בת הדר, גיאה, מבקיעים, תלמי יפה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d9ccbbde1823aea04f02c20c07941821"
+        android:title="אשקלון 251"
+        android:summary="ברור חיל, חלץ, שדה דוד, תלמים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_06cd7762ec984ea2e3f921b6f2d2a9d7"
+        android:title="אשקלון 252"
+        android:summary="דורות, חוות שיקמים, רוחמה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_10e10caf5b75c1265566d7c44b07fe0d"
+        android:title="אשקלון 253"
+        android:summary="אשבול, זרועה, יושיביה, מבועים, ניר משה, ניר עקיבא, פעמי תש''ז, קלחים, שבי דרום, שדה צבי, תלמי ביל''ו"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c3a401e52b8ef48eb60bc22c47b079d1"
+        android:title="אשקלון 254"
+        android:summary="בית הגדי, נתיבות, קרית חינוך שדות נגב"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_1e440021cb1e61c906dce8723e76b01c"
+        android:title="אשקלון 255"
+        android:summary="ברוש, גבעולים, מלילות, מעגלים, שיבולים, שרשרת, תאשור, תדהר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_db20257239e8182a29e3526a1257c515"
+        android:title="אשקלון 256"
+        android:summary="אורים, פטיש"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a9ec3187cd40957b2c21569afbc27593"
+        android:title="אשקלון 257"
+        android:summary="גבולות, צאלים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_31e3b3202e602af85b9855bac4bd9512"
+        android:title="באר שבע 285"
+        android:summary="אל בירה בהר חברון, אמציה, אשכולות, בורג', בית א רוש אל פוקא, בית מירסים, בני דקלים, כרם עמי, כרמי קטיף, נטע, שומריה, שקף"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f26a3502046d5c12cb0d8deebd30e7db"
+        android:title="באר שבע 286"
+        android:summary="א זיאדנה דרומית לרהט, א זיאדנה צפונית לרהט, אל הייל, אל חוקוק, אל עתאיקה, בית קמה, גבעות בר, דבירה, הוזייל, כפר נוער עדנים, להב, להבים, מפעלי אבשלום, משמר הנגב, רהט, שובל, תראבין א צאנה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_7505c2ec9f7bdc59bb55a07833a8c90e"
+        android:title="באר שבע 288"
+        android:summary="אופקים, אופקים, מסלול, פדויים, רנן"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0793ecd85b98b4dd830e4678b995936a"
+        android:title="באר שבע 289"
+        android:summary="בטחה, גילת, תפרח"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_88b82a72ca1042347cc92bb99c32e0fb"
+        android:title="באר שבע 291"
+        android:summary="חצרים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c4fbb4107a80f28c20f56254aedd7ddb"
+        android:title="באר שבע 292"
+        android:summary="באר שבע, מסעודין אל עזאזמה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_84f5fab0afa94d6589e3638056a26534"
+        android:title="בית שמש 188"
+        android:summary="אביעזר, אדרת, אשתאול, בית ג'מאל, בית שמש, בקוע, גבעות עדן, גבעת שמש, גיזו, דייר ראפאת, הראל, זנוח, טל שחר, ישעי, כפר אוריה, מחסיה, מנזר לטרון, מסילת ציון, נווה מיכאל, נווה שלום, נחם, נחשון, נתיב הל''ה, פארק צרעה, צלפון, צרעה, רוגלית, תעוז, תרום"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_2062408863c04d85b30c38f07377d101"
+        android:title="בית שמש 189"
+        android:summary="אבו גוש, איתנים, בית מאיר, בר גיורא, גבעת יערים, יד השמונה, ידידה, כסלון, מטע, נווה אילן, נטף, נס הרים, עין נקובא, עין ראפה, קרית יערים, רמת רזיאל, שואבה, שורש"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_5e71ce116094346fef12e241d266e58a"
+        android:title="בית שמש 190"
+        android:summary="בידו, בית זית, בית נקופה, בית סוריכ, הר אדר, מבשרת ציון, מוצא עילית, מעלה החמישה, צובה, קרית ענבים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f509e8229ab8671d49ae143c2f58a8e1"
+        android:title="בית שמש 191"
+        android:summary="אבן ספיר, אורה, מבוא ביתר, עמינדב, צור הדסה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_052c9f5da885a0be9504f456c7e5770d"
+        android:title="בקעה 130"
+        android:summary="ארגמן, בקעות, ברדלה, זובידאת, ח'לת אל פולה, חמדת, חמרה, מחולה, מכורה, מרג' נעג'ה, משכיות, עאטוף, פארעה אל ג'פתלכ, פרוש בית דג'ן, רועי, רותם, שדמות מחולה, תל א שמסיה, תל אל בידה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ddedae77fd4f518b3daa980fee16cd6c"
+        android:title="בקעה 131"
+        android:summary="גיתית, יפית, משואה, שלומציון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_69333c219ca4f7e39d7dca25bcc6b67b"
+        android:title="בקעה 132"
+        android:summary="גלגל, דומא, ייט''ב, מוע'ייר, מעלה אפרים, נירן, נעמי, נתיב הגדוד, עוג'א אתחתא, עין מע'ר, פסאיל, פצאל, תומר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_b8c007d3c8b07b6e46ed92c35167153a"
+        android:title="בקעה 133"
+        android:summary="אלון, אלמוג, בית הערבה, גבע בנימין, ורד יריחו, יריחו, כוכב השחר, כפר אדומים, מבואות יריחו, מעלה מכמש, מצפה יריחו, נועימה, נועימה מחנה פליטים, נח''ל אלישע, עין א סולטאן מחנה פליטים, עלמון, עקאבת ג'בר מחנה פליטים, קליה, רימונים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_74775f1c7fd3a0b93f1cbe0ff23b396d"
+        android:title="בקעת בית שאן 128"
+        android:summary="אזור תעשיות צבאים, אחוזת שושנה, ביכורה, בית אלפא, בית השיטה, בית יוסף, בית שאן, גשר, חוות דושן, חוות עדן, חוות שפעה, חמדיה, חפצי בה, טירת צבי, ירדנה, כפר רופין, מולדת, מירב, מלכישוע, מסילות, מעוז חיים, מעלה גלבוע, מפעלי שאן, נווה אור, נווה איתן, ניר דוד, עין הנצי''ב, רוויה, רחוב, רשפים, שדה אליהו, שדה נחום, שדי תרומות, שלוחות, תל תאומים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0d406298a88dc7952fea367653fb0e4e"
+        android:title="גולן 1"
+        android:summary="אודם, אל רום, בוקעתא, מג'דל שמס, מסעדה, נווה אטי''ב, נמרוד, עין קנייא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3fe8089c454503a5a6266bf04e4359b4"
+        android:title="גולן 2"
+        android:summary="אבני איתן, אזור תעשייה בני יהודה, אלי עד, אפיק, בני יהודה, גבעת יואב, גשור, חמת גדר, חספין, כפר חרוב, מבוא חמה, מיצר, נאות גולן, נוב, נטור, רמת מגשימים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_6204cc15ee14a943d8c91a93361799b7"
+        android:title="גולן 3"
+        android:summary="אורטל, אלוני הבשן, יונתן, מרום גולן, עין זיוון, קשת"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c29a1c26c084fabdb898901e1493edc8"
+        android:title="גליל עליון 35"
+        android:summary="לוחמי הגיטאות, מזרעה, רגבה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ac084f4ea916018b877b4592308d28cb"
+        android:title="גליל עליון 37"
+        android:summary="בוסתן הגליל, בית העמק, ג'דידה מכר, כפר מסריק, נס עמים, נתיב השיירה, עין המפרץ, עכו, שייח' דנון, שמרת"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3646c3c8b24bc81e9147b8168ac4ecf6"
+        android:title="גליל עליון 38"
+        android:summary="אשרת, ג'וליס, גיתה, טל אל, ירכא, כליל, כפר יאסיף, לפידות, עמקה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f42da1f7bda11c1d0cf52c50793a0fd6"
+        android:title="גליל עליון 40"
+        android:summary="כישור, פלך, תובל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_00054ec700ca922ab1d2fde941d61686"
+        android:title="גליל עליון 41"
+        android:summary="יאנוח ג'ת, כיסרא סומיע, מגדל תפן"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0621bd9e9ec7dfcfcdc3b97205d8320d"
+        android:title="גליל עליון 42"
+        android:summary="ביענה, גילון, דייר אל אסד, כרמיאל, לבון, מג'ד אל כרום, נחף, סאג'ור, עין אל אסד, צורית, קובסי, ראמה, שגור, שזור"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a92f2894e516bb7b357da129704b36a9"
+        android:title="גליל עליון 43"
+        android:summary="בית ג'ן, חלוץ, חרשים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_94202c36fbe7792908206b3390643b36"
+        android:title="גליל עליון 44"
+        android:summary="אור הגנוז, אמירים, בר יוחאי, חמדת ימים, כפר שמאי, מירון, מרכז אזורי מרום הגליל, עין כמונים, פרוד, קדיתא, שפר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e7f16857aa8b2c83374fc84027fbcc6e"
+        android:title="גליל עליון 46"
+        android:summary="ספסופה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_6f38f76b6cb8fa8145869fee88afc075"
+        android:title="גליל עליון 47"
+        android:summary="איילת השחר, גדות, חולתה, יסוד המעלה, משמר הירדן, עמוקה, שדה אליעזר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_8c07b87c70f0573f7b13d4cb509e3be2"
+        android:title="גליל עליון 49"
+        android:summary="ביריה, צפת"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_008b19e15d8d28b3b1a19bd9ecb7e489"
+        android:title="גליל עליון 50"
+        android:summary="אליפלט, אלמגור, אמנון, ורד הגליל, חצור הגלילית, טובא זנגריה, כורזים, כפר הנשיא, כפר נחום, כרי דשא, כרכום, מחניים, עמיעד, ראש פינה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_be74871463fe6d7c3e9e0f561cee96df"
+        android:title="גליל תחתון 55  "
+        android:summary="ארבל, גינוסר, חוקוק, חמאם, כחל, כפר זיתים, כפר חיטים, לבנים, מגדל, רביד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_56fbdf65578b7bd3163a271284756d7a"
+        android:title="גליל תחתון 56  "
+        android:summary="טבריה, מצפה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ba43da4ab9b5eec4c90d51616dfc4182"
+        android:title="גליל תחתון 57"
+        android:summary="בועיינה נוג'יידאת, טפחות, כלנית, כפר חנניה, מגאר, מסד, מצפה נטופה, עיילבון, עינבר, קדרים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_297c4d66356b5748987e225d00486f0b"
+        android:title="גליל תחתון 60"
+        android:summary="אבטליון, אשבל, אשחר, דייר חנא, הררית, חוג'ייראת, חוסנייה, חזון, יחד, כמאנה, כמון, לוטם, מורן, מכמנים, סח'נין, סלמה, עראבה, ערב אזונר, צביה, ראס אל עין, תרדיון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_43f986f39ebdea6c4c78c779484cb074"
+        android:title="גליל תחתון 61"
+        android:summary="בית רימון, עוזייר, רומאנה, רומת היב"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_bc18dabe3d30b5b408e204a71715567b"
+        android:title="גליל תחתון 63  "
+        android:summary="אבו דיאב, אום א סח'אלי, אחיהוד, אלון הגליל, אעבלין, אתגר, ביר אל מכסור, דמיידה, הרדוף, ח'ואלד, חנתון, טמרה, יבור, יובלים, יודפת, יסעור, יעד, כאבול, כאוכב אבו אל היגא, כפר מנדא, מורשת, מנוף, מצפה אבי''ב, מרכז אזורי מישגב, נופית, סואעד, עדי, עצמון שגב, ערב אל גנאדי, ערב אל נעים, ערב אל סגיראת, ערב אל סמניה, קורנית, ראס עלי, רקפת, שורשים, שכניה, שעב, שפרעם"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_167468a34754c31167b61c17d0f354ee"
+        android:title="דן 155"
+        android:summary="גליל ים, הכפר הירוק, הרצליה, כפר שמריהו, רמת השרון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_b3b92606f071e931f6143178e698f678"
+        android:title="דן 157"
+        android:summary="תל אביב יפו"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_4e83fdde6d94cc4378a25d171d0f8d28"
+        android:title="דן 160"
+        android:summary="בני ברק, גבעת שמואל, גבעתיים, חוות שלם, פתח תקווה, רמת גן"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_2eed1e76f64ac7d4798b28dfe75076f7"
+        android:title="דן 161"
+        android:summary="אור יהודה, גני תקווה, יהוד מונוסון, כפר אז''ר, מעש, נווה אפעל, סביון, קרית אונו, רמת אפעל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_b25a3b0dbe87e16e99006bbf76427ac4"
+        android:title="דן 162"
+        android:summary="אזור, בת ים, חולון, מקווה ישראל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_968a7161f8560789ee40c8a8b8960fe6"
+        android:title="הקריות 70"
+        android:summary="אזור תעשייה נעמן, כפר ביאליק, קרית ביאליק, קרית חיים, קרית ים, קרית מוצקין, קרית שמואל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0a6bf8b6def9d761daeb962019aef018"
+        android:title="הקריות 71"
+        android:summary="אבטין, אושה, אל ח'וואלד מערב, אפק, יגור, כפר המכבי, כפר הנוער הדתי, כפר חסידים א', כפר חסידים ב', סרכיס, קרית אתא, רומיחאת, רכסים, רמת יוחנן"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9325920e16974070f04bbacc10f07672"
+        android:title="חיפה 75"
+        android:summary="החותרים, חיפה, טירת כרמל, כפר גלים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_5d71d2a7a2af22b1a0ea06c38fcd5ac5"
+        android:title="חיפה 78"
+        android:summary="נמל חיפה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ec78df213cfd0c51fe26c122c3b6f097"
+        android:title="יהודה 188"
+        android:summary="א דיר במערב הר חברון, אום עלאס, אל קילא, בית אולא, ח'ראס, נובא, תלם, תרקומיא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ffed2fac30b5df40434666bfb6beb5cb"
+        android:title="יהודה 200"
+        android:summary="א דיר במזרח הר חברון, אבו נוג'ים, אום א טלע, אום סלמונה, אום עסלה, אל ח'דר, אספר, אספר, ארטאס, בד פלוח, בווידיעה, ביאדה בהר חברון, בית רחאל, בית תעמר, ברד'עה, ג'וב א רום, ג'והזם, ג'ורת א שמעה, ד'הר חלת אל ג'אמיע, דהיישה מחנה פליטים, ואדי אל עראיס, זעתרה, ח'רזאן, חוג'ילה, חרמלה, כפר אלדד, מיניה, מעלה עמוס, מעסרה, מצד שמעון, מראח רבאח, נוקדים, עבדאללה איברהים, עובידייה, עילת עלי, ערב א שמעה, ראס סניסיל, רפידא, תוקוע, תעמרה, תקוע"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0fb68442ba4963f2a3314df682495f13"
+        android:title="יהודה 206"
+        android:summary="א שויוח, אל ערוב, אלון שבות, אלון שבות, אלעזר, אפרתה, בית אומר, בית כאחיל, בית סכריא, בית פג'אר, ביתר עילית, בת עין, בתיר, ג'אלא, ג'בעה, הר גילה, ואדי פוכין, ח'ירבת ספא, חוסאן, חלחול, חסכה, כוויזבא, כפר עציון, כרמי צור, מגדל עוז, מועסכר אל ערוב, מראח אל בקר, נווה דניאל, נחאלין, סוריף, סיעיר, עבדאללה איברהים, ראש צורים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_77473cb0bc74c34321a3626f53b43176"
+        android:title="יהודה 207"
+        android:summary="א דיראת, א טבקה, א טוואני, א ריחייה, אדורה, אימריש, אל הג'רה, אל חדב, אל מאג'ור, אל מראג'ם, אל עלקה אל פוקא, אל פוואר, אל קוסור, אפיניש, בית עינון, בית עמרה, בני נעים, ג'רון א לוז, דהרייה, דומא במרכז שומרון, דורא, דיר סאמת, דיר ראזח, הר עמשא, ואדיח, זיף, ח'ירבת זיתא, ח'ירבת כרמה, ח'רסה, ח'שם אל כרם, חברון, חגי, טנא, יטא יוטה, כעאבנה, כרזה, כרמיל, כרמל, לב יתיר, מג'ד, מעון, מעין, מצדות יהודה, נגוהות, סובא, סוסיה, סימיא, סמוע, עבדה, עווד, עוזיז, ענאב אל כביר, עתניאל, פוקיקיס, פני חבר, קוואעין, קילקיס, קרית ארבע, ראבוד, ראפאת ליד סמוע, רוג'ם אום ח'יר, רוקעה, שוויכה בהר חברון, שייח' אחמד אל עבד, שמעה, שני ליבנה, תפוח, תראמה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_36602c0457c5dd0d160a05387de46590"
+        android:title="ים המלח 207 "
+        android:summary="ים המלח בתי מלון, מצדה, נווה זוהר, עין בוקק, עין גדי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0423e1ad3f47e58911fe2c43c47ce03a"
+        android:title="ים המלח 210"
+        android:summary="אבנת, מצוקי דרגות, מצפה שלם"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d7c0f229505c4db81b030613f1dee66e"
+        android:title="ירושלים 194"
+        android:summary="א זעיים, אבו דיס, אל ולג'ה, ביר נבאלה, בית איכסא, בית חנינא, דיר כרמיזן, חיזמא, ירושלים, ירושלים, ענאתא, רמת רחל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_feb7a33e040813b0d2bb541d258af034"
+        android:title="כרמל 80"
+        android:summary="נשר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_7b0561723caae059bfdf1096502f773e"
+        android:title="כרמל 81"
+        android:summary="בית צבי, גבע כרמל, ימין אורד, מגדים, נווה ים, ניר עציון, עין הוד, עין חוד, עין כרמל, עתלית"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_4f63147aafcf64f269088e73d6a12791"
+        android:title="כרמל 82"
+        android:summary="בית אורן, גבעת וולפסון, דאלית אל כרמל, עספיא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_624424998b0b8ee6aa28b3b0835fa56a"
+        android:title="מנשה 102"
+        android:summary="בת שלמה, דור, הבונים, זכרון יעקב, כרם מהר''ל, מאיר שפיה, מעיין צבי, מרכז מיר''ב, נחשולים, עופר, עין איילה, פוריידיס, צרופה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_5c74f72353f48eb14f9cd82a70442120"
+        android:title="מנשה 103"
+        android:summary="אליקים, ג'ועארה, גלעד, דליה, הזורע, יוקנעם, יוקנעם עילית, מגידו, מדרך עוז, משמר העמק, עין העמק, עין השופט, רמות מנשה, רמת השופט"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_51efd4cf2f2f67418a1e40ceefcd9fba"
+        android:title="מנשה 104"
+        android:summary="אביאל, אלוני יצחק, בית חנניה, בנימינה גבעת עדה, ג'סר א זרקא, גבעת ניל''י, כפר גליקסון, מעגן מיכאל, עמיקם, רגבים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_bf26c04b850fa28ade54254d8630ac59"
+        android:title="מנשה 105"
+        android:summary="אור עקיבא, קיסריה, שדות ים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ccd170456e3cf6a3859c0e608dc263b9"
+        android:title="מנשה 106"
+        android:summary="גן השומרון, כפר פינס, משמרות, נווה אבות, עין עירון, עין שמר, פרדס חנה כרכור"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_330ad54d3d8c590cbd89a8799b22543c"
+        android:title="מנשה 107"
+        android:summary="חדרה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_b9ab6b12043162529f3beb8733917b5f"
+        android:title="מנשה 108"
+        android:summary="גבעת חביבה, גן שמואל, מאור, מענית, שדה יצחק, שער מנשה, תלמי אלעזר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_394cdc219a562904705e71758ba1d013"
+        android:title="מעלה אדומים 200"
+        android:summary="ג'האלין, מעלה אדומים, עיזרייה, קדר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_bd194ba7023a5c662c92490abd39e027"
+        android:title="נגב 287"
+        android:summary="אבו ג'אבר, אבו טראש, אבו כף אום בטין, אבו סריחאן, אבו עבדון, אבו עמרה, אבו עסא, אבו רוקייק, אל אסד, לקיה, עומר, תל שבע"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_38c1510a41bbb939fc3d2e50067f07f8"
+        android:title="נגב 296"
+        android:summary="א נבארי, א סייד , אבו ג'אבר דרומית ממיתר, אל עטאונה, אעצם, חורה, כרמים, כרמית, מולדה, מיתר, סנסנה, עוקבי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_b86c628b6339a92c8f9c8dcbe6bed353"
+        android:title="נגב 297"
+        android:summary="אבו קוידר אל עפאוי דרומית לנבטים, אבו תלול, אל חמידי, אל עת'אמין, ביר אבו אל חמאם, נבטים, שגב שלום"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_69395a66e9a4a5131784290e48726f41"
+        android:title="נגב 299"
+        android:summary="א דהאבשה, אבו ג'ודה, אבו ג'ווייעד, אבו קרינאת, אבו קרינאת מערבית לכסיפה, אבו רביעה, אבו רביעה צפונית לכסיפה, אל ג'וויני, אל ג'נאמי, אל עביד, אל קורעאן ב, אל קרישי, אל קרעאן, אל קרעאן דרומית לערד, אל קשכר, ג'נאביב, דריג'את, זבארגה, כוחלה, כסיפה, מכחול, נצאצרה, ערד, ערערה בנגב, קבועה, קודייראת א צאנה, קשכר נבארי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9ebae5d6eb117eacc5006412c74c889d"
+        android:title="נגב 300"
+        android:summary="א דנפירי, אבו עפאש, אל ג'רג'אווי, אל ולידי, אל כלאב, עזאזמה, עזאזמה דרומית לרמת חובב, עזאזמה דרומית לשגב שלום, עזאזמה מזרחית לרמת חובב, רמת חובב, תראבין א צאנה שבט"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_cc5a501c8381b9b72a4e530298fc03a0"
+        android:title="נגב 301"
+        android:summary="אורון, אל מחד'י צפונית לדימונה, אל ע'ול צפונית לדימונה, אל עמראני דרום מערב לדימונה, דימונה, הוואשלה, ירוחם, קסר א סיר, קרנב אבו סלב, רח'מה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_da176a1ba0cdc65b2902bc25090dede7"
+        android:title="נגב 302"
+        android:summary="אשלים, באר מילכה, ביר הדאג', טללים, כמהין, מעלה שביט, משאבי שדה, ניצנה כפר נוער, ניצני סיני, עזוז, קציעות, ראם תשלובת חקלאית, רביבים, רוח במדבר, רתמים, שיבטה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c6d1d390017a54341af872ae85109804"
+        android:title="נגב 305"
+        android:summary="מדרשת בן גוריון, מצפה רמון, מרחב עם, שדה בוקר, שלווה במדבר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_15da73a94d9f9f12dd61b1068581aed7"
+        android:title="עוטף עזה 217"
+        android:summary="זיקים, כרמיה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_1ccb3308aac2563006cc0b6a12b229f1"
+        android:title="עוטף עזה 218"
+        android:summary="יד מרדכי, נתיב העשרה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_df41fa59001e53196a61a7b559292568"
+        android:title="עוטף עזה 219"
+        android:summary="אור הנר, ארז"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d73beb554e49b1638904fbaee5961393"
+        android:title="עוטף עזה 220"
+        android:summary="איבים, גבים, מכללת ספיר, ניר עם, שדרות"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3e48d6337ea734524d59847e302df736"
+        android:title="עוטף עזה 221"
+        android:summary="מפלסים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d0771bcdb5fbed506e1b9c091ad69da7"
+        android:title="עוטף עזה 222"
+        android:summary="יכיני"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3c2b1d44b3a8c174d005e21a368c07db"
+        android:title="עוטף עזה 223"
+        android:summary="כפר עזה, סעד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_991053d47b3627ff855e75bebfcd90e9"
+        android:title="עוטף עזה 224"
+        android:summary="נחל עוז, עלומים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9399bfff648c2c1a68878ada02c168ce"
+        android:title="עוטף עזה 225"
+        android:summary="זמרת, חוות יזרעם, כפר מימון, שובה, שוקדה, תושיה, תקומה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_5b1130a69a9406944c1969474454ec48"
+        android:title="עוטף עזה 227"
+        android:summary="בארי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d987f9a5027b8e7aea68e3099c0a45ff"
+        android:title="עוטף עזה 228"
+        android:summary="רעים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_2bd874f3a48468956eaeffd9aa20cdab"
+        android:title="עוטף עזה 230"
+        android:summary="כיסופים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a4e7053c5e0465f1e1f1dea333d5d57e"
+        android:title="עוטף עזה 231"
+        android:summary="נירים, עין השלושה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_73ed5fbdd551b6fb5ab4886f9e2ec278"
+        android:title="עוטף עזה 232"
+        android:summary="ניר עוז"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_24ecb392a7b7cace370f8b6b448195ff"
+        android:title="עוטף עזה 233"
+        android:summary="מגן, מועצה אזורית אשכול, מפעלי מעון, עין הבשור"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e8f4f40303b8c3e5c6f6e6d133fa2c9f"
+        android:title="עוטף עזה 234"
+        android:summary="ישע, מבטחים, עמיעוז"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_21e9d87e2d5cceeee47699655cb838d5"
+        android:title="עוטף עזה 236"
+        android:summary="חולית, ניר יצחק, סופה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_7e2236c20698302b91e2cdc586e465e5"
+        android:title="עוטף עזה 237"
+        android:summary="כרם שלום"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f9805d89aaa5d152cc68122fb68925c3"
+        android:title="עוטף עזה 238"
+        android:summary="אבשלום, דקל, יבול, יתד, פרי גן, שדי אברהם, תלמי יוסף"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_269bb7ca7ffd42bf151eac5c8fc15c06"
+        android:title="עוטף עזה 251"
+        android:summary="גברעם"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_6c4c7dd85ff648db85dca2144769b1ca"
+        android:title="עירון 112"
+        android:summary="אום אל קוטוף, אל מועלקה, אל עריאן, ברקאי, ד'הר אל עבד, דאר אל חנון, ח'ירבת אל עכאבה, כפר קרע, מנסורה, מצפה אילן, ערערה, קציר חריש, ריחן"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a6ce7e92546ac1ed1c44a1fd6c24f909"
+        android:title="עירון 113"
+        android:summary="אום אל פחם, בסמ''ה, גבעת עוז, ח'ירבת מועאוויה, מי עמי, מעלה עירון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ed47ba73357ad6bea1bdae7d7f213317"
+        android:title="עמק חפר 137"
+        android:summary="אליכין, אלישיב, בית חזון, גבעת חיים איחוד, גבעת חיים מאוחד, חגלה, חיבת ציון, חרב לאת, כפר הרא''ה, עין החורש"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e560ce428f4b92b9f2bbcd212c27afd7"
+        android:title="עמק חפר 139"
+        android:summary="אייל, אילנות, בית ברל, בני דרור, גאולים, חרות, טייבה, טירה, יעף, כוכב יאיר, כפר הס, כפר יעבץ, כפר עבודה, משמרת, ניר אליהו, עזריאל, עין ורד, עין שריד, פורת, פרדסיה, צור יגאל, צור יצחק, צור משה, צור נתן, קדימה צורן, קלנסווה, רמת הכובש, שדה ורבורג, שער אפרים, תל מונד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_653a8f557d1112790ee88d4829c8f9af"
+        android:title="עמק חפר 149"
+        android:summary="אומץ, אחיטוב, באקה אל ע'רביה, באקה ג'ת, בחן, ג'ת, המעפיל, זיתא ליד באקה אל ע'רביה, זמר, להבות חביבה, מגל, מייסר, מצר, נזלת עיסא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_122bb254adcd4e99c30474ad5c3864d3"
+        android:title="עמק חפר 150"
+        android:summary="בארותיים, בורגתה, בית הלוי, בת חפר, גן יאשיה, העוגן, חניאל, יד חנה, ינוב, כפר יונה, כפר מונש, ניצני עוז, עולש, תנובות"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_6348ee326d06a00acdecf090fb5c7df3"
+        android:title="עמק יזרעאל 86"
+        android:summary="אורנים, אלונים, בית זיד, בסמת טבעון, כפר תקווה, קרית טבעון, שער העמקים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a54e593edf8730571e8f717927114856"
+        android:title="עמק יזרעאל 87"
+        android:summary="אלוני אבא, בית לחם הגלילית, בית שערים, גבעת אלה, גבת, גיניגר, יפעת, כעביה טבאש חג'אג'רה, כפר יהושע, מגדל העמק, מנשית זבדה, נהלל, נווה יער, עילוט, ערב אל עיסאת, רמת דוד, רמת ישי, שדה יעקב, שמשית, שריד, תמרת"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a8b8c5595ad2d18ddc55d2c914009f31"
+        android:title="עמק יזרעאל 89"
+        android:summary="היוגב, כפר ברוך"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e30eb7181873a0ca903cffaad8a3bc24"
+        android:title="עמק יזרעאל 90"
+        android:summary="אחוזת ברק, דברת, דחי, טמרה יזרעאל, מפעלי גלבוע, מרחביה מושב, מרחביה קיבוץ, נאעורה, נורית, נין, סולם שונם, עין חרוד איחוד, עין חרוד מאוחד, עפולה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_38141e9431dce72bff5018dbe0cc891c"
+        android:title="עמק יזרעאל 93"
+        android:summary="אביטל, אדירים, אומן, ברק, גבע, גדיש, גדעונה, גן נר, דבורה, חבר, טייבה ליד מולדת, יזרעאל, יעל, כפר יחזקאל, מגן שאול, מוקייבלה, מיטב, מלאה, ניר יפה, פרזון, צנדלה, רם און, רמת צבי, תל יוסף"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_195b6152b335708133cd7a264cd48227"
+        android:title="ערבה 308"
+        android:summary="שיטים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_02c7aeb8436d78bbb9a004cd257fb869"
+        android:title="ערבה 310"
+        android:summary="אליפז, באר אורה, גרופית, חצבה, יהל, יטבתה, לוטן, נאות הכיכר, נאות סמדר, נווה חריף, סמר, ספיר, עידן, עין חצבה, עין יהב, עין תמר, עיר אובות, פארן, צופר, צוקים, קטורה, שחרות"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e38822c48362754d6e35f280f51d1a8e"
+        android:title="קו העימות 14"
+        android:summary="בצת, כפר ראש הנקרה, לימן, מצובה, שלומי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_fa337568f4fedb9d15db611c6a9716df"
+        android:title="קו העימות 15"
+        android:summary="א נוואקיר, אדמית, אידמית, אילון, ג'ורדיח, גורן, גורנות הגליל, חניתה, יערה, עראמשה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_cacea42acc52f41949ff1ede189da8d6"
+        android:title="קו העימות 16"
+        android:summary="אבן מנחם, זרעית, שומרה, שתולה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_418d4aa22c2805c23d3a2d5096ad7df9"
+        android:title="קו העימות 17"
+        android:summary="אבירים, אלקוש, נטועה, פסוטה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c625144184ff69873689d095f741e616"
+        android:title="קו העימות 19"
+        android:summary="דוב''ב, מתת, סאסא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_4c372551a06487f9de4273a2f0f705df"
+        android:title="קו העימות 20"
+        android:summary="חורפיש, פקיעין, פקיעין חדשה, צבעון, צוריאל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_78b020303167719a8ccb9ead8335896a"
+        android:title="קו העימות 22"
+        android:summary="אביבים, ברעם, יראון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f95c12efbfde53f06061aca0cfd0bacb"
+        android:title="קו העימות 23"
+        android:summary="ג'יש, דלתון, כרם בן זמרה, עלמה, ריחאנייה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_c0867410f51b747eb69d57d7ab878930"
+        android:title="קו העימות 24"
+        android:summary="דישון, יפתח, מלכיה, מרכז כ''ח, רמות נפתלי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0ec3f1a2e117b6ce817a6b08f8a8176b"
+        android:title="קו העימות 25"
+        android:summary="גונן, כפר בלום, כפר סאלד, להבות הבשן, נאות מרדכי, עמיר, שדה נחמיה, שמיר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_cbdf10c7297737a51ef8032078c2fca8"
+        android:title="קו העימות 26"
+        android:summary="בית הלל, יובל, כפר גלעדי, מטולה, מנרה, מעיין ברוך, מרגליות, משגב עם, קרית שמונה, תל חי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_1668c708783d447120853bbecd0bb96e"
+        android:title="קו העימות 28"
+        android:summary="דן, דפנה, הגושרים, ע'ג'ר, שאר ישוב, שניר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_93723adeb5fb1a319def597a01c17480"
+        android:title="קו העימות 29"
+        android:summary="גשר הזיו, נהריה, סער, עברון, שבי ציון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e718b731ef7f1bc5f0f70d72e316f3ef"
+        android:title="קו העימות 30"
+        android:summary="בן עמי, כברי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3775328012eb85a2f796617500802232"
+        android:title="קו העימות 31"
+        android:summary="געתון, יחיעם, מנות, נווה זיו, עבדון, עין יעקב"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d398817835d3a35ee6812cf2c38f5afa"
+        android:title="קו העימות 32"
+        android:summary="הילה, חוסן, כפר ורדים, מעונה, מעיליא, מעלות תרשיחא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_4520a2dc14868cd803e5bdc4facace12"
+        android:title="קצרין 10"
+        android:summary="האון, מסדה, מעגן, עין גב, רמות, שער הגולן, תל קציר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e68479f28fe9cd764f67e0de04806d29"
+        android:title="קצרין 7"
+        android:summary="א סלבה, אניעם, חד נס, כנף, מעלה גמלא, קדמת צבי, קלע, קצרין, שעל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_2e5314d7b6852fa70e215c192c43c264"
+        android:title="שומרון 118"
+        android:summary="אום א ריחאן, אום דאר, בורקין, האשימיה, זובובא, זיבדה, ח'ירבת א טורם, ח'ירבת א טייבה, חיננית, חרמש, טורה על ע'רביה, יאמון, יעבד, כופיראת, כפר דאן, כפר קוד, מבוא דותן, מנשיה, נזלה א שרקיה, נזלת זיד, סילת אל ח'רית'יה, עאנין, עראבה ליד ג'נין, ערקה, פיראסין, קפין, רומאנה ממזרח לאום אל פחם, שקד, תיעניכ, תעשיון שח''ק"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_178058e29c651ad172dce971cfd7b4ec"
+        android:title="שומרון 119"
+        android:summary="א שהאדה, אום א תות, איג'ניסיניא, איכתאבא, אירתאח, אל ג'ארושיה, אל מוטילה, אל מוע'ייר, אקרע, באקה א שרקיה, בורקה ליד שכם, בזאריה, בית אומרין, בית קאד, בלעא, ג'בע, ג'ודידה, ג'לבון, ג'למה, ג'לקמוס, ג'נין, ג'רבה, דיר אבו דעיף, דיר אל ע'וסון, דיר ע'זאלה, דנאבה, ואדי א דבע, זאוויה בצפון שומרון, זבאבידה, ח'ירבת אל עקרבאניה, ח'ירבת בית חסן, טובאס, טול כרם, טלוזה, טמון, יאסיד, כופיר, כפר א לבד, כפר ראעי, כפר רומאן, כשדה, מוח'יים פארעה, מירכה, מית'לון, מסיליה, משרוע בית קאד, נור א שמס, נזלה אל ווסטא, נזלה אל ע'רביה, נזלת אבו נאר, ניסף ג'וביל, סאנור, סידא, סילת א דהר, סיר, סיריס, עאבה, עג'ה, עטארה, עילאר, עין אל בידא, ענבתא, ענזה, עסירה א שמאליה, עקבה בשומרון, עקבת תיאסיר, עראנה, ערבונה, עתיל, פחמה, פנדקומיה, פקועה, קבאטיה, ראבא, רמה, שוויכה, תיאסיר, תלפית, תנין"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_94425ad4b0fb81f0f29de41c241e93b8"
+        android:title="שומרון 120"
+        android:summary="א ראס, אבני חפץ, אודלה, אימאתין, איתמר, אל פונדוק, אלון מורה, באקה, בורין, בית א אל פוקא, בית איבא, בית דג'ן, בית וזן, בית ליד, בית פוריכ, ביתא א תחתא, בלאטה, ברכה, ג'וניד, ג'יוס, ג'ית, ג'מאעין, גבעת סנה יעקב, דיר אל חטב, דיר שרף, הר גריזים, זוואתא, זיתא, ח'וארה, ח'ירבת סיר, חג'ה, חוות גלעד, יאנון, יצהר, כור, כפר ג'מאל, כפר זיבאד, כפר סור, כפר עבוש, כפר קדום, כפר קליל, מג'דל, מדמא, נאקורה, סאלם, סבסטיה, סלעית, ספארין, סרה, עוורתא, עוסארין, עוריף, עזמוט, עין יאנון, עינאבוס, עיראק בורין, ענב, עסירה אל קיבליה, עסכר, עקרבה, פלאמה, פרעון, פרעתה, קדומים, קוזה, קוסין, ראמין, רוג'ייב, רפידיה, שבי שומרון, שופה, שכם, תל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_30689c88abf6eb2b2240a1b8441b15c3"
+        android:title="שומרון 121"
+        android:summary="א שייח' אחמד, אבו סלמאן, אל מודוור, אלפי מנשה, אלקנה, בידיה, בית אמין, ג'ינסאפוט, דיר איסתיא, ח'ירבת א נבי אליאס, ח'ירבת אל אשקר, ח'ירבת עסלה, ח'ירבת ראס א טירה, ח'ירבת ראס עטיה, יקיר, כפר לאקף, כפר ת'ולת, מסחה, מעלה שומרון, נופים, סניריא, סרטא, עזון, עזון עתמה, עמנואל, עץ אפרים, צופין, קלקיליה, קראות בני חסן, קרני שומרון, שערי תקווה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e37486f098e8a5f2acc5ac4ebd697661"
+        android:title="שומרון 122"
+        android:summary="אריאל, ברקן, חארס, כיפל חארת, מרדה, סלפית, עין אל מטווי, פרח'ה, קירה, קרית נטפים, רבבה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f2dd20377f50370cfd3243d5bf0b464d"
+        android:title="שומרון 123"
+        android:summary="א לובאן, בית אריה, ברוכין, דיר בלוט, זאוויה, עופרים, עלי זהב, פדואל, ראפאת ליד פדואל, רנתיס"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d9ae7ea42c92c96c615edbef9d38b560"
+        android:title="שומרון 124"
+        android:summary="אום ספא, איסכאכא, בורהאם, בורוקין, בית רימא, ג'יביא, ג'ילג'יליא, דיר א סודאן, דיר אבו משעל, דיר ניזאם, דיר ע'סאנה, ח'ירבת קיס, חלמיש, יאסוף, כובר, כפר א דיכ, כפר עין, כפר תפוח, לובאן שרקיה, מזאריע א נובאני, מעלה לבונה, נבי סאלח, סאוויה, סינג'יל, עאבוד, עבווין, עג'ול, עטארה ליד ביר זית, עטרת, עמוריה, ערורה, קראות בני זיד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_d9d19183f5c8f39bdfd88587be6d2465"
+        android:title="שומרון 125"
+        android:summary="אזור תעשייה שער בנימין, ג'אלוד, ג'וריש, דיר ג'ריר, דיר דיבוואן, ח'ירבת אבו פלאח, טייבה ליד עפרה, יתמא, כפר מאליכ, מגדלים, מוח'מאס, מזרעה א שרקיה, סילואד, עלי, עפרה, קבלאן, קוסרה, קריות, רחלים, רמון, שבות רחל, שילה, תורמוס עייא, תלפית במרכז השומרון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f4507711f8ad9bf14ef686171d790331"
+        android:title="שומרון 126"
+        android:summary="א ראם, אבו קש, אבו שח'ידם, אל בירה, בורקה, בילעין, ביר זית, בית איענאן, בית אל, בית דוקו, בית חורון, בית ליקיא, בית סירא, בית ע'ור א תחתא, בית ע'ור אל פוקא, ביתוניא, ביתילו, ביתין, ג'אניה, ג'בע מצפון לירושלים, ג'לזון, ג'מאלא, ג'פנא, גבעת אסף, דולב, דורא אל קריע, דיר איבזיע, דיר עמאר, דיר קדיס, ח'ירבת א טירה, ח'ירבת אל מיסבאח, ח'ירבתא, טירה ליד בית חורון, טלמון, יברוד, כוכב יעקב, כפר ניעמה, כפר עקב, מזרעה אל קיבליה, נחליאל, ניל''י, נעלה, סורדה, ספא, עין איוב, עין יברוד, עין סיניא, עין עריכ, עין קיניא, פסגות, קיביא, קלנדיה, ראס כרכר, ראפאת ליד גבעת זאב, רמאללה, שבתין, שוקבא"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_bc886b0dcd48f7ed37e6e0da6260efe2"
+        android:title="שומרון 127"
+        android:summary="בית איג'זא, ג'ודירה, ג'יב, גבעון החדשה, גבעת זאב, נבי סמואל"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9a1c39e5a32587962a6838e169a8b320"
+        android:title="שפלה 168"
+        android:summary="גבעת השלושה, גת רימון, כפר סירקין, פתח תקווה, תעשיון השרון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_33169a6768a05ffc1b80b94a8543bf31"
+        android:title="שפלה 169"
+        android:summary="אלעד, בארות יצחק, בני עטרות, גבעת כ''ח, מגשימים, מזור, נופך, נחלים, נחשונים, רינתיה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_1f0cd546cc50879eacb5beb33e96bb7e"
+        android:title="שפלה 170"
+        android:summary="עינת, ראש העין"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_df6b8355dd6d716f3c1ea65eb299ed86"
+        android:title="שפלה 171"
+        android:summary="מחנה נחשונים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_ad91e279275226cd1dd351908fb9d1a0"
+        android:title="שפלה 172"
+        android:summary="נמל תעופה בן גוריון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_3367d053ff2acb3a0b8ff1fef4e6e0f1"
+        android:title="שפלה 173"
+        android:summary="בית נחמיה, בית עריף, ברקת, חדיד, טירת יהודה, מרכז שוהם, שוהם"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_10389d20550c4cd41accb0b6743e85ad"
+        android:title="שפלה 174"
+        android:summary="אחיעזר, בית דגן, גנות, זיתן, חמד, יגל, כפר חב''ד, כפר טרומן, משמר השבעה, צפריה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9411530b70bb8add422f022c70ccb7e9"
+        android:title="שפלה 175"
+        android:summary="גן שורק, נטעים, פלמחים, ראשון לציון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e29218794cc5e4d26660d8c315213c54"
+        android:title="שפלה 178"
+        android:summary="באר יעקב, ישרש, מצליח, צריפין, רמלה"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_41bfb74f01c6b0fd7a44e0fc7917bae8"
+        android:title="שפלה 179"
+        android:summary="אחיסמך, בן שמן, בן שמן כפר נוער, גינתון, כרם בן שמן, לוד, ניר צבי"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_a7791c1ac0ffcc9e665b957b24f5b29a"
+        android:title="שפלה 181"
+        android:summary="בודרוס, גמזו, חשמונאים, כפר דניאל, כפר הארנים, כפר רות, לפיד, מבוא חורון, מבוא מודיעים, מודיעין מכבים רעות, מודיעין עילית, מידיה, מתתיהו, נוף איילון, ניעלין, שילת, שעלבים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_9132739920056a6793b9a14bfd350172"
+        android:title="שפלה 182"
+        android:summary="אירוס, גבעת ברנר, גיבתון, גן שלמה, נצר סרני, רחובות"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_8b3b731083917e73425a11ae2797cb34"
+        android:title="שפלה 183"
+        android:summary="בית חנן, בית עובד, נס ציונה, עיינות"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_849757f7bf05d3c31b6e51912a80479d"
+        android:title="שפלה 184"
+        android:summary="בית חשמונאי, בית עוזיאל, גזר, גני הדר, גני יוחנן, חולדה, יד רמב''ם, יסודות, יציץ, כפר ביל''ו, כפר בן נון, כפר שמואל, כרמי יוסף, מזכרת בתיה, מרכז קניות ביל''ו, משמר איילון, משמר דוד, נען, נצר חזני, סתריה, עזריה, פדיה, פתחיה, קרית עקרון, רמות מאיר"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_643dbcd52b3f0f3f49f1aa8d0d66ea2d"
+        android:title="שרון 137"
+        android:summary="בית חרות, בית ינאי, גאולי תימן, חופית, כפר ויתקין, מבואות ים, מכמורת, נעורים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_0d5e93856918f5b4f3b18620ab7c52d6"
+        android:title="שרון 138"
+        android:summary="אביחיל, בית יצחק שער חפר, ביתן אהרן, בת חן, גבעת שפירא, גנות הדר, הדר עם, חבצלת השרון, כפר חיים, כפר ידידיה, מעברות, משמר השרון, נורדיה, נתניה, צוקי ים, שושנת העמקים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_864d791d8079d3f416be37b9602d531d"
+        android:title="שרון 140"
+        android:summary="גבעת ח''ן, רעננה, רשפון"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_65c3daa95ab28881cc7597ace25a8bc7"
+        android:title="שרון 141"
+        android:summary="גן חיים, כפר סבא, נווה ימין, צופית"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_913a4d89a7eca37d0f29650d231d44a8"
+        android:title="שרון 142"
+        android:summary="אבן יהודה, אודים, ארסוף, בית יהושע, בני ציון, בצרה, געש, ורדים מוסד חינוכי, חרוצים, יקום, כפר נטר, קרית שלמה, שפיים, תל יצחק"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_e50ee2276f9527a478b8dedc30895827"
+        android:title="שרון 143"
+        android:summary="אורנית, אלישמע, ג'לג'וליה, גני עם, הוד השרון, חבלה, חגור, חורשים, ירחיב, ירקונה, כפר ברא, כפר מל''ל, כפר קאסם, מתן, נווה ירק, נירית, עדנים, רמות השבים, שדי חמד"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_887254391d99bf391177f1264c71366c"
+        android:title="תבור 95"
+        android:summary="אכסאל, בלפוריה, הושעיה, הסוללים, יפיע, כפר גדעון, כפר החורש, כפר כנא, מזרע, משהד, נצרת, נצרת עילית, עין מאהל, ערב אל פמאז, ציפורי, ריינה, תל עדשים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_812c3ca58de50e7bd5670040c8868c78"
+        android:title="תבור 96"
+        android:summary="אילניה, בית קשת, גזית, דבוריה, טורעאן, כדורי, כפר מיסר, כפר קיש, כפר תבור, עין דור, שבלי, שדמות דבורה, שעורים"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="area_f8f4348161a3db5e743cd305d83a5e6a"
+        android:title="תבור 98"
+        android:summary="אוהלו, אלומות, אפיקים, אשדות יעקב איחוד, אשדות יעקב מאוחד, בית זרע, בית ירח, גבעת אבני, דגניה א', דגניה ב', הודיות , הזורעים, יבנאל, כינרת מושבה, כינרת קבוצה, כפר כמא, כפר נהר הירדן, לביא, מנחמיה, פוריה כפר עבודה, פוריה נווה עובד, פוריה עילית, שדה אילן, שרונה"
+        android:defaultValue="false" />
+
+</PreferenceScreen>
