@@ -1,6 +1,8 @@
 package me.rocketalert.rocketalert;
 
+import android.content.SharedPreferences;
 import android.os.NetworkOnMainThreadException;
+import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.crashlytics.android.Crashlytics;
@@ -38,7 +40,13 @@ public class Application extends android.app.Application {
             Parse.initialize(getApplicationContext(), applicationId, clientKey);
 
             PushService.setDefaultPushCallback(getApplicationContext(), Alert.class);
-            PushService.subscribe(getApplicationContext(), "all-android", Alert.class);
+
+            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+            Boolean enableAllAreas = prefs.getBoolean("enableAllAreas", true);
+
+            if (enableAllAreas) {
+                PushService.subscribe(getApplicationContext(), "all-android", Alert.class);
+            }
 
             if (BuildConfig.DEBUG) {
                 PushService.subscribe(getApplicationContext(), "test-android", Alert.class);
