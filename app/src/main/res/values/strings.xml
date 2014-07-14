@@ -9,6 +9,6 @@
     <string name="waiting_for_parse">Registering with server... please wait.</string>
     <string name="main_text">Areas you will be notified about:</string>
     <string name="updates_notice">This app is still in continous development. Please install updates often, and send any feedback you have.</string>
-    <string name="pref_notification_sound">Alert Sound</string>
+    <string name="pref_notification_sound">Select Alert Sound</string>
 
 </resources>
