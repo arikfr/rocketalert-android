@@ -5,6 +5,14 @@
         android:title="@string/pref_title_vibrate"
         android:defaultValue="true" />
 
+    <RingtonePreference
+        android:key="notificationSound"
+        android:title="@string/pref_notification_sound"
+        android:ringtoneType="all"
+        android:showDefault="true"
+        android:showSilent="true"
+        />
+
     <CheckBoxPreference
         android:key="enableAllAreas"
         android:title="@string/pref_all_areas"
