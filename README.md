@@ -9,7 +9,8 @@ Pull requests and improvements are more than welcome. Most requested features fr
 
 * Option to select notification sound type
 * Option to mute alerts
-* Make area selection more friendly
+* Option to override silent mode
+* Make area selection more friendly (search city/area, show selected on top, ...)
 * Show last alerts
 * Add support for older devices (Android 2+)
 * Our own GCM server? Currently we use Parse.
