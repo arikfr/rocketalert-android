@@ -9,8 +9,8 @@ Pull requests and improvements are more than welcome. Most requested features fr
 
 * ~~Option to select notification sound type~~
 * ~~Option to mute alerts~~
-* Option to override silent mode
-* Make area selection more friendly (search city/area, show selected on top, ...)
-* Show last alerts
-* Add support for older devices (Android 2+)
+* Make area selection more friendly (search city/area, show selected on top, ...): https://github.com/arikfr/rocketalert-android/issues/1
+* Show past alerts: https://github.com/arikfr/rocketalert-android/issues/4
+* Option to override silent mode: https://github.com/arikfr/rocketalert-android/issues/3
+* Add support for older devices (Android 2+): https://github.com/arikfr/rocketalert-android/issues/2
 * Our own GCM server? Currently we use Parse.
