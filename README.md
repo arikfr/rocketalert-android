@@ -7,8 +7,8 @@ This is a volunteer project to provide real time rocket alerts for the citizens 
 
 Pull requests and improvements are more than welcome. Most requested features from users:
 
-* Option to select notification sound type
-* Option to mute alerts
+* ~~Option to select notification sound type~~
+* ~~Option to mute alerts~~
 * Option to override silent mode
 * Make area selection more friendly (search city/area, show selected on top, ...)
 * Show last alerts
