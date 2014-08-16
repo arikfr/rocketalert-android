@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Rocket Alert</string>
+    <string name="all_areas">Все зоны</string>
+    <string name="hello_world">Здравствуй, мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_feedback">Отзыв и помощь</string>
+    <string name="action_test_notification">Тестовое уведомление</string>
+    <string name="waiting_for_parse">Регистрация на сервере... подождите.</string>
+    <string name="main_text">Зоны, о которых вы будете уведомляться:</string>
+    <string name="updates_notice">Это приложение все еще находится в стадии разработки. Регулярно устанавливайте обновления и присылайте свои отзывы.</string>
+
+    <string name="pref_title_vibrate">Вибрация</string>
+    <string name="pref_all_areas">Уведомлять меня обо всех зонах</string>
+    <string name="pref_header_areas">Зоны для уведомления</string>
+
+    <string name="title_activity_settings">Настройки</string>
+    <string name="pref_notification_sound">Bыберите звуковой сигнал </string>
+
+</resources>
