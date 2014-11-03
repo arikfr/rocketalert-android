@@ -17,7 +17,7 @@ Pull requests and improvements are more than welcome. Most requested features fr
 
 ## LICENSE
 
-RocketAlert app for Android
+RocketAlert app for Android  
 Copyright (C) 2014 Arik Fraimovich-Almog
 
 This program is free software: you can redistribute it and/or modify
