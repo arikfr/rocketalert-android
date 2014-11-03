@@ -19,18 +19,6 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/updates_notice"
-        android:id="@+id/textView2"
-        android:background="#fffeffdf"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
-
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -38,7 +26,6 @@
         android:layout_below="@+id/mainText"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_above="@+id/textView2"
         tools:listitem="@android:layout/simple_list_item_1" />
 
 </RelativeLayout>

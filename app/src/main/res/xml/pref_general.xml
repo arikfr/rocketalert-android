@@ -13,9 +13,10 @@
         android:showSilent="true"
         />
 
-    <CheckBoxPreference
+    <me.rocketalert.rocketalert.MultilineCheckBoxPreference
         android:key="enableAllAreas"
         android:title="@string/pref_all_areas"
-        android:defaultValue="true" />
+        android:defaultValue="true"
+        />
 
 </PreferenceScreen>
