@@ -14,3 +14,21 @@ Pull requests and improvements are more than welcome. Most requested features fr
 * Option to override silent mode: https://github.com/arikfr/rocketalert-android/issues/3
 * Add support for older devices (Android 2+): https://github.com/arikfr/rocketalert-android/issues/2
 * Our own GCM server? Currently we use Parse.
+
+## LICENSE
+
+RocketAlert app for Android  
+Copyright (C) 2014 Arik Fraimovich-Almog
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
