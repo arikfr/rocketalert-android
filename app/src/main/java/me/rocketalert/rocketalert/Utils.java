@@ -7,15 +7,8 @@ import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
 import com.squareup.okhttp.Response;
 
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
 
-/**
- * Created by arik on 3/7/15.
- */
 public class Utils {
     public static Bitmap downloadBitmap(String url) throws IOException {
         byte[] data = downloadData(url);
