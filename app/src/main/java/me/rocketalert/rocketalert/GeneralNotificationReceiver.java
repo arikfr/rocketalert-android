@@ -75,6 +75,31 @@ public class GeneralNotificationReceiver extends BroadcastReceiver {
             builder.setContentIntent(contentIntent);
         }
 
+        // TODO: need to download icon/image on a background thread
+        if (json.has("largeIconUrl")) {
+            // Download icon
+            String largeIconUrl = json.getString("largeIconUrl");
+            Log.i(TAG, "Download icon: " + largeIconUrl);
+
+            try {
+                builder.setLargeIcon(Utils.downloadBitmap(largeIconUrl));
+            } catch (Exception ex) {
+                Log.w(TAG, "Failed to download icon: " + largeIconUrl);
+            }
+        }
+
+        if (json.has("largeImageUrl")) {
+            // Download image
+            String largeImageUrl = json.getString("largeImageUrl");
+
+            Log.i(TAG, "Download image: " + largeImageUrl);
+            try {
+                builder.setStyle(new NotificationCompat.BigPictureStyle().bigPicture(Utils.downloadBitmap(largeImageUrl)));
+            } catch (Exception ex) {
+                Log.w(TAG, "Failed to download image: " + largeImageUrl);
+            }
+        }
+
         builder.setAutoCancel(true);
 
         return builder.build();

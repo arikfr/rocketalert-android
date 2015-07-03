@@ -51,4 +51,5 @@ dependencies {
     compile 'com.android.support:support-v4:21.+'
     compile "com.android.support:appcompat-v7:21.0.+"
     compile 'com.crashlytics.android:crashlytics:1.+'
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
 }
