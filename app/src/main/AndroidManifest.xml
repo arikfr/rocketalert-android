@@ -53,6 +53,14 @@
             </intent-filter>
         </receiver>
         <receiver
+            android:name=".GeneralNotificationReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="me.rocketalert.NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+        <receiver
             android:name="com.parse.GcmBroadcastReceiver"
             android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
