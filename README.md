@@ -3,12 +3,9 @@ Rocket Alert (Android) - UNMAINTAINED
 
 > **This app is no longer maintained, please check out [Red Alert](https://github.com/eladnava/redalert-android) as an alternative.**
 
-https://play.google.com/store/apps/details?id=me.rocketalert.rocketalert
-
-
 This is a volunteer project to provide real time rocket alerts for the citizens of Israel. This is my first Android project, which was written during the weekend; please don't judge my skills by it. :-)
 
-~|Pull requests and improvements are more than welcome. Most requested features from users:|
+~Pull requests and improvements are more than welcome. Most requested features from users:~
 
 ## LICENSE
 
